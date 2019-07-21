@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Zada4i4 {
+public class OrdersAndInventoryInAShopOrStorage {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
